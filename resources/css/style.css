@@ -1,0 +1,26 @@
+html {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.hdr-type {
+    color: aliceblue;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.lnk-dwnld {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.hdr-type-two {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.ftr-text  {
+    color: gray;
+    text-align: end;
+}
