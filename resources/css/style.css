@@ -13,6 +13,7 @@ html {
 .lnk-dwnld {
     color: aquamarine;
     font-size: 16px;
+    margin-bottom: 25px;
 }
 
 .hdr-type-two {
@@ -23,4 +24,8 @@ html {
 .ftr-text  {
     color: gray;
     text-align: end;
+}
+
+.pic-phn-clipart {
+    margin-top: 25px;
 }
